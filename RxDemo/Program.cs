@@ -4,10 +4,10 @@ using System.Threading;
 
 namespace RxDemo
 {
-    class Program
+    internal class Program
     {
         // IObserver<T> : 'reader' / 'consumer' ; IObservable<T> : 'writer' / 'publisher'
-        static void Main()
+        private static void Main()
         {
             // Subject
             Console.WriteLine("Subject");
