@@ -47,3 +47,5 @@ Temporary Items
 .apdisk
 /RxDemo/bin/Debug
 /RxDemo/obj/Debug
+/.vs
+/RxDemo/obj/Release
