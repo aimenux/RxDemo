@@ -1,6 +1,6 @@
 # Welcome to RxDemo !
 
-## This is a console application that shows a simple usage of reactive extensions (Rx).
+## This is a console application that shows a simple usage of Rx framework.
 
 > Subject<T> is the most basic of the subjects for providing push notifications after subscriptions.
   
