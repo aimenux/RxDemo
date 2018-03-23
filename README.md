@@ -2,8 +2,6 @@
 
 ## This is a console application that shows a simple usage of Rx.
 
-**Reminder** :
-
 *Reactive Extensions (Rx) is a library for composing asynchronous and event-based programs using observable sequences and LINQ-style query operators. Reactive Extensions is a library of implementations of the IObservable<T> and IObserver<T> interfaces for .NET.
 For more informations about Rx, i recommend this [link](http://www.introtorx.com/content/v1.0.10621.0/00_Foreword.html).*
 
